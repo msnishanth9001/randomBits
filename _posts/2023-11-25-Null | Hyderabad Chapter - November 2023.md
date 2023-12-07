@@ -4,7 +4,7 @@ title: Null | Hyderabad Chapter - Nov'23
 author: ms
 date: 2023-11-25
 comments: false
-tags: [talk, owasp ml10]
+tags: [talk, owasp-ml10]
 pin: True
 author:
 ---
