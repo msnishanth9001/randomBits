@@ -47,34 +47,43 @@ With so many surface areas available the Goal of OWASP ML10 is to indentify and 
 
 ## 2. ML01:2023 Input Manipulation Attack
 
+Case of Autonomous Vehicle: The signs can be modified by threat actors by adding perturbations which changes the intent of the sign board. This results in ML model to take wrong and harmful actions for the vehicle.
 
 ## 3. ML02:2023 Data Poisoning Attack
 
+Case of WAF: The SQLI attack for WAF can be countered by various methods which results in easy breakthrough.
 
 ## 4. ML03:2023 Model Inversion Attack
 
+Case of Bot Detection: The Taylor Swift Tickets were sold out in a jiffy with the bots.
 
 ## 5. ML04:2023 Membership Inference Attack
 
+Case of Banking: A malicious attacker wants to gain access to sensitive financial information of individuals. They do this by training a machine learning model on a dataset of financial records and using it to query whether or not a particular individual’s record was included in the training data. The attacker can then use this information to infer the financial history and sensitive information of individuals.
 
 ## 6. ML05:2023 Model Stealing
 
+Case of Cloning ML Model: New sophisticated ways are being researched to clone a model parameter based on interaction.
 
 ## 7. ML06:2023 AI Supply Chain Attacks
 
+Case of Trojans: The packages and Frameworks are not tested and certified. Common dev will not aware of the consequences of this.
 
 ## 8. ML07:2023 Transfer Learning Attack
 
+Case of Backdoor: The packages and Frameworks are not tested and certified. Common dev will not aware of the consequences of this.
 
 ## 9. ML08:2023 Model Skewing
 
+Case of Feedback: An attacker provides fake feedback data to the Financial Bank system, indicating that high-risk applicants have been approved for loans in the past, and this feedback is used to update the model’s training data.
 
 ## 10. ML09:2023 Output Integrity Attack
 
+Case of Classifiers: Incorrect classification of Tumorous vs Bening tumor for patients.
 
 ## 11. ML10:2023 Model Poisoning
 
-
+Case of Spams: Mailbox, easy targets.
 
 
 
