@@ -9,7 +9,7 @@ pin: True
 author:
 ---
 
-Had a wonderful experience presenting OWASP ML TOP 10 at Null Hyd this Sunday. It was wonderful participation. Loved the intruiguing questions from people working in various security and ML domains. The slides from the presentation is available [here](https://github.com/msnishanth9001/msnishanth9001.github.io/blob/main/PPTX/Null%20%7C%20Hyd%20Nov.pptx).
+Had a wonderful experience presenting [OWASP ML TOP 10](https://owasp.org/www-project-machine-learning-security-top-10/) at Null Hyd this Sunday. It was wonderful participation. Loved the intruiguing questions from people working in various security and ML domains. The [slides](https://github.com/msnishanth9001/msnishanth9001.github.io/blob/main/PPTX/Null%20%7C%20Hyd%20Nov.pptx) from the presentation.
 
 A Brief on the talk:
 
